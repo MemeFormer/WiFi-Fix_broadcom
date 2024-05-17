@@ -1,5 +1,3 @@
-# README.md
-
 ## Overview
 
 This repository provides scripts to facilitate the installation of necessary packages on a device without an internet connection. The scripts are designed to download the required packages on a machine with internet access, save them to a USB drive, and then install them on the target machine. This process is particularly useful for setting up Broadcom WiFi and potentially iPhone USB tethering.
